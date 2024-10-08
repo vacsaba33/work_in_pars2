@@ -1,0 +1,5 @@
+
+Task: Add the name of a furniture, in a new line *between* the two other furniture
+
+chair
+table

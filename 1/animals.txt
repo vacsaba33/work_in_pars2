@@ -1,0 +1,6 @@
+
+Task: Add an animal in a new line *between* the already provided animals
+
+mouse
+bee
+
